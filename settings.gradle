@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='Practical 2.2 Add User Interactivity'
